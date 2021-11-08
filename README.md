@@ -34,3 +34,9 @@ Não vou me prolongar tanto com essa função de email pois realmente é mamão 
 </ul>
 
 <h5>Agradeço a quem ficou até aqui, até logo.</h5>
+
+![Video (10)](https://user-images.githubusercontent.com/89032013/140668695-9a23d6e2-aa05-4282-b00d-24b5545e6606.gif)
+
+
+<span>A notificicação ficará mais ou menos assim no navegador:</span>
+![Design sem nome](https://user-images.githubusercontent.com/89032013/140668683-d827e754-5c00-4b5b-84b3-fe188a2a3c0f.png)
