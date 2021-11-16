@@ -9,7 +9,7 @@ Não vou me prolongar tanto com essa função de email pois realmente é mamão 
 <ul>
 <li>
   <strong>Languages: <br /></strong>
-  <i>PHP e SQL.</i>
+  <i>PHP, Javascript e SQL.</i>
  </li>
 
 <li>
@@ -19,7 +19,7 @@ Não vou me prolongar tanto com essa função de email pois realmente é mamão 
 
 <li>
   <strong>Library: <br /></strong>
-  <i>jQuery e PHPMailer.</i>
+  <i>jQuery.</i>
 </li>
 
 <li>
