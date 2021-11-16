@@ -14,7 +14,7 @@ Não vou me prolongar tanto com essa função de email pois realmente é mamão 
 
 <li>
   <strong>Database: </br /></strong>
-  <i>PHPMyAdmin.</i>
+  <i>MySql.</i>
 </li>
 
 <li>
